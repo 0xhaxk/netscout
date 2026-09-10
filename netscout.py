@@ -38,7 +38,7 @@ def banner():
 |_| \_|\___|\__|____/ \___\__,_|\__,_|\__|
 
         Network Port & Service Scanner
-        Built by Veereswar
+        Built by haxk
 """)
 
 
